@@ -6,4 +6,3 @@ You can check it using the link Below:
 
 [Check prime Number](https://check-prime-number-webapp.netlify.app/)
 
-![Screenshot]
